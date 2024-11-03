@@ -2,6 +2,6 @@
 <p>On my first project i made a barber shop web site using HTML5/CSS3 - 29/05/2023</p>
 
 <div align="center">
-<img src="![screensht 1](https://github.com/user-attachments/assets/c650d86f-f637-4877-8156-f3c491f35f64)"
+<img src="https://github.com/user-attachments/assets/c650d86f-f637-4877-8156-f3c491f35f64"
  width="700px" />
 </div>
