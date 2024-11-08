@@ -1,6 +1,8 @@
 <p>Meu primeiro projeto foi construir um site de uma barbearia usando HTML5/CSS3 neste projeto aprendi a usar o google maps para colocar no site da barbearia, aprendi princípios fundamentais de HTML5/CSS3 e desenvolvi muitas outras habilidades.  29/05/2023</p> 
 <p>On my first project i made a barber shop web site using HTML5/CSS3 on this project i learned how to use google maps, i learned so many things as a begginer coder, and i have develped my skills so much after this project. 29/05/2023</p>
 
+https://kburial.github.io/barbearia/
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/c650d86f-f637-4877-8156-f3c491f35f64"
  width="700px" />
