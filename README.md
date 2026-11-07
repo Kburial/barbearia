@@ -22,8 +22,9 @@ https://kburial.github.io/barbearia/
 </div> 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/866e9a77-5c22-4459-b868-d4443859aebc"
+ <img src="https://github.com/user-attachments/assets/866e9a77-5c22-4459-b868-d4443859aebc"
  width="700px" />
+ <p><em>Hair style and mustache prices</em></p>
 </div> 
 
 <div align="center">
