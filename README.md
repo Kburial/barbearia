@@ -16,8 +16,9 @@ https://kburial.github.io/barbearia/
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0b13cfd0-69de-4f2f-b4c6-1e57a698b95c"
+ <img src="https://github.com/user-attachments/assets/0b13cfd0-69de-4f2f-b4c6-1e57a698b95c"
  width="700px" />
+ <p><em>Description place</em></p>
 </div> 
 
 <div align="center">
