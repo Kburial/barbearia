@@ -4,14 +4,15 @@
 https://kburial.github.io/barbearia/
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c650d86f-f637-4877-8156-f3c491f35f64"
+ <img src="https://github.com/user-attachments/assets/c650d86f-f637-4877-8156-f3c491f35f64"
  width="700px" />
  <p><em>Home page</em></p>
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e302120e-17d7-418a-aa23-e5e6c2e93f46"
- width="700px" />
+  <img src="https://github.com/user-attachments/assets/e302120e-17d7-418a-aa23-e5e6c2e93f46"
+  width="700px" />
+  <p><em>Barber's description and map</em></p>
 </div>
 
 <div align="center">
