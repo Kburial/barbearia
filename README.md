@@ -28,6 +28,7 @@ https://kburial.github.io/barbearia/
 </div> 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d6174cc4-8a9e-4307-9bdd-ab52319df8fe"
- width="700px" />
+  <img src="https://github.com/user-attachments/assets/d6174cc4-8a9e-4307-9bdd-ab52319df8fe"
+  width="700px" />
+  <p><em>Barber's form</em></p>
 </div> 
