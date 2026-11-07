@@ -6,6 +6,7 @@ https://kburial.github.io/barbearia/
 <div align="center">
 <img src="https://github.com/user-attachments/assets/c650d86f-f637-4877-8156-f3c491f35f64"
  width="700px" />
+ <p><em>Home page</em></p>
 </div>
 
 <div align="center">
